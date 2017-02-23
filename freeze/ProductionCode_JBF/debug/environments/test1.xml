@@ -1,0 +1,14 @@
+<environment title='test1'>
+    <parameter type='num_sweeps' value='2'></parameter>
+    <parameter type='num_simulations' value='1'></parameter>
+    <parameter type='num_agents' value='3'></parameter>
+    <parameter type='alpha' value='0.1'></parameter>
+    <parameter type='beta' value='0.2'></parameter>
+    <parameter type='gamma' value='0.5'></parameter>
+    <parameter type='theta' value='0'></parameter>
+    <parameter type='signal0_mean' value='0.5'></parameter>
+    <parameter type='signal0_variance' value='0.1'></parameter>
+    <parameter type='signal1_mean' value='0.5'></parameter>
+    <parameter type='signal1_variance' value='0.2'></parameter>
+    <parameter type='p' value='0.1'></parameter>
+</environment>

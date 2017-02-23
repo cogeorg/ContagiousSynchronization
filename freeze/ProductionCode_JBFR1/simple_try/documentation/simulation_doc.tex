@@ -1,0 +1,61 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\author{Christoph Aymanns}
+\begin{document}
+\subsubsection*{Definitions}
+Let:
+\begin{itemize}
+\item Adjacency matrix of network: $\mathbf{A}$
+\item Neighbourhood of a given node: $B$ 
+\item Size of neighbourhood: $k =|B|$: 
+\item Number of node in network: $n$.
+\item Action vector: $\mathbf{x}$.
+\item Private belief: $p$ 
+\item Social belief: $q = \sum_{i \in B} x_i = \mathbf{A} \mathbf{x}$. 
+\item Threshold function: $f(p,q)$ such that:
+\begin{equation}
+x = \begin{cases} 1 &\mbox{if } f(p,q) > 0.5  \\
+0 & \mbox{if } f(p,q) < 0.5 \end{cases}
+\end{equation}
+\end{itemize}
+We distinguish between three cases for the threshold function:
+\begin{enumerate}
+\item ``Equal'':
+\begin{equation}
+f(p,q) = 0.5(p+q).
+\end{equation}
+\item ``Neighbor'':
+\begin{equation}
+f(p,q) = \frac{1}{k+1}p + \frac{k}{k+1}q.
+\end{equation}
+\item ``Rel Neighbor'':
+\begin{equation}
+f(p,q) = \left(1 - \frac{k}{n-1}\right) p + \frac{k}{n-1}q.
+\end{equation}
+\end{enumerate}
+
+\subsubsection*{Some ideas for endogenous network formation}
+\begin{itemize}
+\item It seems that there is a trade off between average returns and probability of contagion. Low connectivity means low average pay-off. However, low connectivity also means low probability of contagion. 
+\item One would therefore expect that more highly connected agents have an advantage over less connected agents. Agent could change the network structure by the following procedure:
+\begin{itemize}
+\item Observe pay-off and $k$ of agents in neighbourhood.
+\item Rank pay-off and copy $k$ of agent with highest pay-off.
+\item Randomly connect edge stubs or randomly select some links to remove.
+\end{itemize}
+Alternatives: Agents have wealth, i.e. history of pay-off. That could introduce more heterogeneity. Just ranking pay-off will leave lots of ambiguity since pay-off is binary. Also should probably run in relatively uninformed regime so that there is high probability that private belief is wrong. How should initial network structure look like? Problem with ER network is that all agents are basically the same. How strong will heterogeneity be in degree distribution?- probably ok.
+
+Conjecture: Agents will increase the number of links until network is fully connected. Therefore individual optimization will drive network towards less stable configuration.
+
+Another alternative would allow agents to globally observe the most successful agents and try to connect to these agents. This could lead to some interesting heavy tailed degree distributions.
+
+PROBLEM: Doesn't seem to work because pay-off appear independent of degree of agent.
+
+These ideas involve repeatedly running the simulation for a number of time steps. Collecting the pay-off and rewire the network and then repeat. In every repetition we assume that the state of the world changes. Agents can therefore not use observations from past runs.
+\end{itemize}
+
+
+\end{document}

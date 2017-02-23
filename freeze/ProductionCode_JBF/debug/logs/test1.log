@@ -1,0 +1,385 @@
+03/12/2013 16:29:58 START logging for run: debug/environments/test1.xml
+03/12/2013 16:30:55 START logging for run: debug/environments/test1.xml
+03/12/2013 16:30:55 FINISHED logging for run: debug/environments/test1.xml 
+
+03/12/2013 16:37:19 START logging for run: debug/environments/test1.xml
+03/12/2013 16:37:19 FINISHED logging for run: debug/environments/test1.xml 
+
+03/12/2013 16:37:31 START logging for run: debug/environments/test1.xml
+03/12/2013 16:37:31 FINISHED logging for run: debug/environments/test1.xml 
+
+03/12/2013 16:37:45 START logging for run: debug/environments/test1.xml
+03/12/2013 16:37:45   environment identifier: test1
+03/12/2013 16:39:24 START logging for run: debug/environments/test1.xml
+03/12/2013 16:39:24   environment with identifier test1 created
+03/12/2013 16:39:24 FINISHED logging for run: debug/environments/test1.xml 
+
+03/12/2013 16:39:45 START logging for run: debug/environments/test1.xml
+03/12/2013 16:39:45   environment with identifier test1 created
+03/12/2013 16:39:45 FINISHED logging for run: debug/environments/test1.xml 
+
+03/12/2013 16:46:08 START logging for run: debug/environments/test1.xml
+03/12/2013 16:46:47 START logging for run: debug/environments/test1.xml
+03/12/2013 16:46:47     network with identifier test1 created
+03/12/2013 16:46:47   environment with identifier test1 created
+03/12/2013 16:46:47 FINISHED logging for run: debug/environments/test1.xml 
+
+03/12/2013 16:46:58 START logging for run: debug/environments/test1.xml
+03/12/2013 16:46:58     network with identifier test1 created
+03/12/2013 16:46:58   environment with identifier test1 created
+03/12/2013 16:46:58 FINISHED logging for run: debug/environments/test1.xml 
+
+03/12/2013 16:47:25 START logging for run: debug/environments/test1.xml
+03/12/2013 16:47:25 FINISHED logging for run: debug/environments/test1.xml 
+
+03/12/2013 16:47:36 START logging for run: debug/environments/test1.xml
+03/12/2013 16:47:51 START logging for run: debug/environments/test1.xml
+03/12/2013 16:47:51 FINISHED logging for run: debug/environments/test1.xml 
+
+03/12/2013 16:48:02 START logging for run: debug/environments/test1.xml
+03/12/2013 16:48:02 FINISHED logging for run: debug/environments/test1.xml 
+
+03/12/2013 16:48:09 START logging for run: debug/environments/test1.xml
+03/12/2013 16:48:09 FINISHED logging for run: debug/environments/test1.xml 
+
+03/12/2013 16:48:12 START logging for run: debug/environments/test1.xml
+03/12/2013 16:48:12 FINISHED logging for run: debug/environments/test1.xml 
+
+03/12/2013 18:03:13 START logging for run: debug/environments/test1.xml
+03/12/2013 18:04:22 START logging for run: debug/environments/test1.xml
+03/12/2013 18:04:43 START logging for run: debug/environments/test1.xml
+03/12/2013 18:04:48 START logging for run: debug/environments/test1.xml
+03/12/2013 18:06:00 START logging for run: debug/environments/test1.xml
+03/12/2013 18:06:00 reading environment file debug/environments//test1.xml
+03/12/2013 18:06:59 START logging for run: debug/environments/test1.xml
+03/12/2013 18:06:59 reading environment file ./debug/environments/test1.xml
+03/12/2013 18:07:14 START logging for run: debug/environments/test1.xml
+03/12/2013 18:07:14 reading environment file ./debug/environments/test1.xml
+03/12/2013 18:07:34 START logging for run: debug/environments/test1.xml
+03/12/2013 18:07:34 reading environment file ./debug/environments/test1.xml
+03/12/2013 18:07:34 FINISHED logging for run: debug/environments/test1.xml 
+
+03/12/2013 18:07:54 START logging for run: debug/environments/test1.xml
+03/12/2013 18:07:54 reading environment file ./debug/environments/test1.xml
+03/12/2013 18:08:11 START logging for run: debug/environments/test1.xml
+03/12/2013 18:08:11 reading environment file ./debug/environments/test1.xml
+03/12/2013 18:08:11 FINISHED logging for run: debug/environments/test1.xml 
+
+03/13/2013 14:10:03 START logging for run: debug/environments/test1.xml
+03/13/2013 14:10:03 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:10:09 START logging for run: debug/environments/test1.xml
+03/13/2013 14:10:09 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:10:34 START logging for run: debug/environments/test1.xml
+03/13/2013 14:10:34 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:10:34 FINISHED logging for run: debug/environments/test1.xml 
+
+03/13/2013 14:10:52 START logging for run: debug/environments/test1.xml
+03/13/2013 14:10:52 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:10:52 FINISHED logging for run: debug/environments/test1.xml 
+
+03/13/2013 14:12:08 START logging for run: debug/environments/test1.xml
+03/13/2013 14:12:08 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:35:14 START logging for run: debug/environments/test1.xml
+03/13/2013 14:35:14 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:35:14 FINISHED logging for run: debug/environments/test1.xml 
+
+03/13/2013 14:36:34 START logging for run: debug/environments/test1.xml
+03/13/2013 14:36:34 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:36:50 START logging for run: debug/environments/test1.xml
+03/13/2013 14:36:50 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:36:50 FINISHED logging for run: debug/environments/test1.xml 
+
+03/13/2013 14:46:38 START logging for run: debug/environments/test1.xml
+03/13/2013 14:46:38 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:47:02 START logging for run: debug/environments/test1.xml
+03/13/2013 14:47:02 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:47:02 FINISHED logging for run: debug/environments/test1.xml 
+
+03/13/2013 14:49:49 START logging for run: debug/environments/test1.xml
+03/13/2013 14:49:49 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:50:19 START logging for run: debug/environments/test1.xml
+03/13/2013 14:50:19 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:51:24 START logging for run: debug/environments/test1.xml
+03/13/2013 14:51:24 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:51:46 START logging for run: debug/environments/test1.xml
+03/13/2013 14:51:46 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:51:51 START logging for run: debug/environments/test1.xml
+03/13/2013 14:51:51 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:55:30 START logging for run: debug/environments/test1.xml
+03/13/2013 14:55:30 reading environment file ./debug/environments/test1.xml
+03/13/2013 14:55:30 FINISHED logging for run: debug/environments/test1.xml 
+
+03/13/2013 15:53:40 START logging for run: debug/environments/test1.xml
+03/13/2013 15:53:40 reading environment file ./debug/environments/test1.xml
+03/13/2013 15:53:56 START logging for run: debug/environments/test1.xml
+03/13/2013 15:53:56 reading environment file ./debug/environments/test1.xml
+03/13/2013 15:54:18 START logging for run: debug/environments/test1.xml
+03/13/2013 15:54:18 reading environment file ./debug/environments/test1.xml
+03/13/2013 15:54:42 START logging for run: debug/environments/test1.xml
+03/13/2013 15:54:42 reading environment file ./debug/environments/test1.xml
+03/13/2013 15:54:59 START logging for run: debug/environments/test1.xml
+03/13/2013 15:54:59 reading environment file ./debug/environments/test1.xml
+03/13/2013 15:55:09 START logging for run: debug/environments/test1.xml
+03/13/2013 15:55:09 reading environment file ./debug/environments/test1.xml
+03/13/2013 15:55:12 START logging for run: debug/environments/test1.xml
+03/13/2013 15:55:12 reading environment file ./debug/environments/test1.xml
+03/13/2013 15:55:48 START logging for run: debug/environments/test1.xml
+03/13/2013 15:55:48 reading environment file ./debug/environments/test1.xml
+03/13/2013 15:56:00 START logging for run: debug/environments/test1.xml
+03/13/2013 15:56:00 reading environment file ./debug/environments/test1.xml
+03/13/2013 15:56:00 FINISHED logging for run: debug/environments/test1.xml 
+
+03/13/2013 15:56:05 START logging for run: debug/environments/test1.xml
+03/13/2013 15:56:05 reading environment file ./debug/environments/test1.xml
+03/13/2013 15:56:05 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 14:54:37 START logging for run: debug/environments/test1.xml
+03/14/2013 14:54:37 reading environment file ./debug/environments/test1.xml
+03/14/2013 14:54:37 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 14:57:35 START logging for run: debug/environments/test1.xml
+03/14/2013 14:57:35 reading environment file ./debug/environments/test1.xml
+03/14/2013 14:57:35 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 14:58:50 START logging for run: debug/environments/test1.xml
+03/14/2013 14:58:50 reading environment file ./debug/environments/test1.xml
+03/14/2013 14:58:50 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 14:59:34 START logging for run: debug/environments/test1.xml
+03/14/2013 14:59:34 reading environment file ./debug/environments/test1.xml
+03/14/2013 14:59:34 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:00:31 START logging for run: debug/environments/test1.xml
+03/14/2013 15:00:31 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:00:41 START logging for run: debug/environments/test1.xml
+03/14/2013 15:00:41 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:00:41 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:01:42 START logging for run: debug/environments/test1.xml
+03/14/2013 15:01:42 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:01:42 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:01:54 START logging for run: debug/environments/test1.xml
+03/14/2013 15:01:54 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:01:54 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:01:56 START logging for run: debug/environments/test1.xml
+03/14/2013 15:01:56 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:01:56 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:16:02 START logging for run: debug/environments/test1.xml
+03/14/2013 15:16:02 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:16:02 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:16:04 START logging for run: debug/environments/test1.xml
+03/14/2013 15:16:04 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:16:04 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:16:19 START logging for run: debug/environments/test1.xml
+03/14/2013 15:16:19 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:16:19 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:16:28 START logging for run: debug/environments/test1.xml
+03/14/2013 15:16:28 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:16:28 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:06 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:06 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:06 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:10 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:10 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:10 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:11 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:11 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:11 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:12 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:12 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:12 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:12 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:12 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:13 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:13 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:13 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:13 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:14 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:14 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:14 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:14 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:14 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:14 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:15 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:15 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:15 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:16 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:16 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:16 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:17 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:17 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:17 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:18 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:18 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:18 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:18 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:18 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:18 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:19 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:19 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:19 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:20 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:20 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:20 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:20 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:20 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:20 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:21 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:21 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:21 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:23 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:23 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:23 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:48 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:48 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:48 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:49 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:49 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:49 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:49 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:49 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:49 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:50 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:50 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:50 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:51 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:51 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:51 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:52 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:52 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:52 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:52 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:52 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:52 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:53 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:53 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:53 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:54 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:54 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:54 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:56 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:56 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:56 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:17:57 START logging for run: debug/environments/test1.xml
+03/14/2013 15:17:57 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:17:57 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:18:02 START logging for run: debug/environments/test1.xml
+03/14/2013 15:18:02 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:18:02 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:18:03 START logging for run: debug/environments/test1.xml
+03/14/2013 15:18:03 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:18:03 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:19:18 START logging for run: debug/environments/test1.xml
+03/14/2013 15:19:18 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:19:18 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:19:31 START logging for run: debug/environments/test1.xml
+03/14/2013 15:19:31 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:19:31 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:19:42 START logging for run: debug/environments/test1.xml
+03/14/2013 15:19:42 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:19:42 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:20:10 START logging for run: debug/environments/test1.xml
+03/14/2013 15:20:10 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:20:10 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:20:54 START logging for run: debug/environments/test1.xml
+03/14/2013 15:20:54 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:20:54 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:21:06 START logging for run: debug/environments/test1.xml
+03/14/2013 15:21:06 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:21:06 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:21:23 START logging for run: debug/environments/test1.xml
+03/14/2013 15:21:23 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:21:23 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:21:25 START logging for run: debug/environments/test1.xml
+03/14/2013 15:21:25 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:21:25 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:21:53 START logging for run: debug/environments/test1.xml
+03/14/2013 15:21:53 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:21:53 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:22:26 START logging for run: debug/environments/test1.xml
+03/14/2013 15:22:26 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:22:26 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:22:59 START logging for run: debug/environments/test1.xml
+03/14/2013 15:22:59 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:22:59 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:23:04 START logging for run: debug/environments/test1.xml
+03/14/2013 15:23:04 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:23:04 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:23:09 START logging for run: debug/environments/test1.xml
+03/14/2013 15:23:09 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:23:10 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:23:14 START logging for run: debug/environments/test1.xml
+03/14/2013 15:23:14 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:23:14 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:23:20 START logging for run: debug/environments/test1.xml
+03/14/2013 15:23:20 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:23:20 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:23:22 START logging for run: debug/environments/test1.xml
+03/14/2013 15:23:22 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:23:22 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:23:23 START logging for run: debug/environments/test1.xml
+03/14/2013 15:23:23 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:23:23 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:23:24 START logging for run: debug/environments/test1.xml
+03/14/2013 15:23:24 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:23:24 FINISHED logging for run: debug/environments/test1.xml 
+
+03/14/2013 15:23:25 START logging for run: debug/environments/test1.xml
+03/14/2013 15:23:25 reading environment file ./debug/environments/test1.xml
+03/14/2013 15:23:25 FINISHED logging for run: debug/environments/test1.xml 
+

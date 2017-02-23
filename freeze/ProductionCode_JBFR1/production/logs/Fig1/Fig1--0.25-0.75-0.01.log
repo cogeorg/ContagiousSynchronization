@@ -1,0 +1,69 @@
+09/13/2013 23:43:09 START logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/13/2013 23:43:09 reading environment file ./production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/13/2013 23:43:09     measurement started...
+09/13/2013 23:44:09     ...measurement written
+09/13/2013 23:44:09 FINISHED logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml 
+
+09/13/2013 23:48:09 START logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/13/2013 23:48:09 reading environment file ./production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/13/2013 23:48:09     measurement started...
+09/13/2013 23:49:04     ...measurement written
+09/13/2013 23:49:04 FINISHED logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml 
+
+09/13/2013 23:49:25 START logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/13/2013 23:49:25 reading environment file ./production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/13/2013 23:49:25     measurement started...
+09/13/2013 23:52:30     ...measurement written
+09/13/2013 23:52:30 FINISHED logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml 
+
+09/13/2013 23:55:36 START logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/13/2013 23:55:36 reading environment file ./production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/13/2013 23:55:36     measurement started...
+09/13/2013 23:56:24     ...measurement written
+09/13/2013 23:56:24 FINISHED logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml 
+
+09/13/2013 23:59:58 START logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/13/2013 23:59:58 reading environment file ./production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/13/2013 23:59:58     measurement started...
+09/14/2013 00:02:51     ...measurement written
+09/14/2013 00:02:51 FINISHED logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml 
+
+09/14/2013 00:04:37 START logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/14/2013 00:04:37 reading environment file ./production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/14/2013 00:04:37     measurement started...
+09/14/2013 00:12:35     ...measurement written
+09/14/2013 00:12:35 FINISHED logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml 
+
+09/14/2013 00:20:41 START logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/14/2013 00:20:41 reading environment file ./production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/14/2013 00:20:41     measurement started...
+09/14/2013 00:30:19     ...measurement written
+09/14/2013 00:30:19 FINISHED logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml 
+
+09/14/2013 08:51:28 START logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/14/2013 08:51:28 reading environment file ./production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/14/2013 08:51:28     measurement started...
+09/14/2013 08:51:30     ...measurement written
+09/14/2013 08:51:30 FINISHED logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml 
+
+09/14/2013 08:51:41 START logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/14/2013 08:51:41 reading environment file ./production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+09/14/2013 08:51:41     measurement started...
+09/14/2013 08:51:42     ...measurement written
+09/14/2013 08:51:42 FINISHED logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml 
+
+10/05/2013 18:56:50 START logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+10/05/2013 18:56:50 reading environment file ./production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+10/05/2013 18:56:50     measurement started...
+10/05/2013 18:58:15 START logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+10/05/2013 18:58:15 reading environment file ./production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+10/05/2013 18:58:15     measurement started...
+10/05/2013 18:58:21     ...measurement written
+10/05/2013 18:58:21 FINISHED logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml 
+
+10/05/2013 18:58:48 START logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+10/05/2013 18:58:48 reading environment file ./production/environments/Fig1/Fig1--0.25-0.75-0.01.xml
+10/05/2013 18:58:48     measurement started...
+10/05/2013 18:58:54     ...measurement written
+10/05/2013 18:58:54 FINISHED logging for run: production/environments/Fig1/Fig1--0.25-0.75-0.01.xml 
+

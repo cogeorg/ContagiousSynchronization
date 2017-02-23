@@ -1,0 +1,12 @@
+09/03/2013 11:21:42 START logging for run: debug/environments/test1.xml
+09/03/2013 11:21:42 reading environment file ./debug/environments/test1.xml
+09/03/2013 11:21:42     measurement started...
+09/03/2013 11:21:42     ...measurement written
+09/03/2013 11:21:42 FINISHED logging for run: debug/environments/test1.xml 
+
+03/20/2014 16:46:35 START logging for run: tests/environments/test1.xml
+03/20/2014 16:46:35 reading environment file ./tests/environments/test1.xml
+03/20/2014 16:46:35     measurement started...
+03/20/2014 16:46:35     ...measurement written
+03/20/2014 16:46:35 FINISHED logging for run: tests/environments/test1.xml 
+

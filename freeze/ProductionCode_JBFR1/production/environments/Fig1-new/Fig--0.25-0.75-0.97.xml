@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+ <environment title="Fig--0.25-0.75-0.97">
+ <!--simulation parameters-->
+ <parameter type="nums_sweeps" value="100"/>
+ <parameter type="num_simulations" value="100"/>
+ <parameter type="num_agents" value="50"/>
+ <!--state parameters-->
+ <parameter type="theta" value="1"/>
+ <parameter type="rho" value="0.0"/>
+ <parameter type="lamb" value="0.0"/>
+ <!--utility function parameters -->
+ <parameter type="alpha" value="0.01"/>
+ <parameter type="beta" value="0.0"/>
+ <parameter type="gamma" value="0.1"/>
+ <!--signal parameters-->
+ <parameter type="signal0_mean" value="0.25"/>
+ <parameter type="signal0_variance" value="0.1"/>
+ <parameter type="signal1_mean" value="0.75"/>
+ <parameter type="signal1_variance" value="0.1"/>
+ <!--parameters required to get figures for results-->
+ <parameter type="fixed_network" value="True"/>
+ <parameter type="network_density" value="0.97"/>
+ </environment>
